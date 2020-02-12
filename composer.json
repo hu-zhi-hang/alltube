@@ -5,6 +5,7 @@
   "homepage": "http://alltubedownload.net/",
   "type": "project",
   "require": {
+    "php": "7.3.11",
     "ext-mbstring": "*",
     "ext-fileinfo": "*",
     "ext-intl": "*",
