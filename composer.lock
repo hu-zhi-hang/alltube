@@ -6021,6 +6021,6 @@
     "platform": [],
     "platform-dev": [],
     "platform-overrides": {
-        "php": "7.3.11"
+        "php": "7.2"
     }
 }
